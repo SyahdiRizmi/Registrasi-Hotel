@@ -67,5 +67,5 @@ Berikut adalah gambar dari database yang didapatkan di Mysql Workbench
 ![Screenshot (20)](https://user-images.githubusercontent.com/106594179/173196757-4251bbeb-5a12-4fe3-9017-12a5fb6f6d8f.png)
 
 ## _References_
-[referensi untuk belajar python di freecodecamp](https://wwww.freecodecamp.org/news/the-python-guide-for-beginners/)
+[freecodecamp.org](https://wwww.freecodecamp.org/news/the-python-guide-for-beginners/) - referensi untuk belajar coding python
 
