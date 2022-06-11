@@ -16,5 +16,12 @@ Karena masih terdapat hotel yang masih memasukan data pemesanan kamar secara man
 Hotel Sofia WebApp adalah aplikasi perhotelan untuk menginput data pemesanan hotel. Aplikasi ini ditujukan untuk membantu admin hotel agar waktu pemesanan hotel lebih mudah dan lebih cepat. Admin hotel dapat memasukan nama pemesan, tanggal pemesanan, nomor kamar, dan jenis kamar untuk tiap pemesanan kamar. Selain itu, admin hotel dapat mencari atau menampilkan data pemesanan kamar berdasarkan tanggal pemesanan.
 
 ## _Flowchart_
+![uas basdat (3)](https://user-images.githubusercontent.com/106594179/173189960-076b1955-84ca-4ea9-a293-186b9850bf57.png)
+
+## _Panduan Menggunakan Aplikasi_
+
+## _Demo_
+
+## _References_
 
 
